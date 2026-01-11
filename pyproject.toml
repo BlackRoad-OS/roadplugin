@@ -1,0 +1,5 @@
+[project]
+name = "roadplugin"
+version = "0.1.0"
+description = "BlackRoad OS - roadplugin"
+requires-python = ">=3.10"
